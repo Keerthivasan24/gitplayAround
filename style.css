@@ -1,0 +1,10 @@
+.top{
+    display: flex;
+    background-color: blue;
+    width: fit-content;
+
+
+    p{
+        color:white
+    }
+}
