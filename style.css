@@ -8,15 +8,3 @@
         color:white
     }
 }
-
-.middle{
-    display: flex;
-    background-color: rgb(255, 0, 225);
-    width: fit-content;
-    margin-top: 100px;
-
-
-    p{
-        color:white
-    }
-}
